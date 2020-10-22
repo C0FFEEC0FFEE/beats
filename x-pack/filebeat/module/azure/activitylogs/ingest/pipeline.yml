@@ -230,6 +230,10 @@ processors:
 - set:
     field: event.kind
     value: event
+- set:
+    if: ctx.azure.activitylogs.operation_name=='Microsoft.Security/locations/alerts/activate/action'
+    field: event.kind
+    value: alert
 - pipeline:
     name: '{< IngestPipeline "azure-shared-pipeline" >}'
 on_failure:

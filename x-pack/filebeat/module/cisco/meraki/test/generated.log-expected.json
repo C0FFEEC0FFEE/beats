@@ -17,8 +17,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.15.44.253",
-            "10.193.124.51"
+            "10.193.124.51",
+            "10.15.44.253"
         ],
         "rsa.internal.event_desc": "olaborissecurity_event tur",
         "rsa.internal.messageid": "security_event",
@@ -56,6 +56,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
             "10.15.16.212",
             "10.102.218.31"
@@ -90,6 +93,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
             "ceroinBC flows src=10.179.60.216 dst=10.69.53.104 protocol=udp pattern: 0 reprehe"
@@ -121,9 +127,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.155.236.240",
-            "10.112.46.169"
+            "10.112.46.169",
+            "10.155.236.240"
         ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
@@ -345,8 +354,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.134.0.141",
-            "10.210.213.18"
+            "10.210.213.18",
+            "10.134.0.141"
         ],
         "rsa.internal.event_desc": "atquovosecurity_event iumto",
         "rsa.internal.messageid": "security_event",
@@ -518,6 +527,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
             "10.53.150.119",
             "10.85.10.165"
@@ -622,9 +634,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.205.47.51",
-            "10.219.84.37"
+            "10.219.84.37",
+            "10.205.47.51"
         ],
         "rsa.internal.messageid": "events",
         "rsa.misc.event_source": "appliance",
@@ -691,9 +706,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.182.178.217",
-            "10.63.194.87"
+            "10.63.194.87",
+            "10.182.178.217"
         ],
         "rsa.counters.dclass_r1": "fdeFi",
         "rsa.internal.messageid": "events",
@@ -731,6 +749,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
             "10.153.0.77",
             "10.163.154.210"
@@ -798,6 +819,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
             "ese flows allow src=10.145.248.111 dst=10.57.6.252 mac=01:00:5e:94:6a:cf protocol=udp"
@@ -864,6 +888,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
             "cancel"
@@ -895,6 +922,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
             "10.93.68.231",
             "10.135.217.12"
@@ -959,9 +989,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.247.30.212",
-            "10.66.89.5"
+            "10.66.89.5",
+            "10.247.30.212"
         ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
@@ -1064,8 +1097,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.58.64.108",
-            "10.54.37.86"
+            "10.54.37.86",
+            "10.58.64.108"
         ],
         "rsa.internal.messageid": "ids-alerts",
         "rsa.misc.event_type": "ids-alerts",
@@ -1099,9 +1132,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.163.93.20",
-            "10.147.76.202"
+            "10.147.76.202",
+            "10.163.93.20"
         ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
@@ -1176,9 +1212,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.148.124.84",
-            "10.28.144.180"
+            "10.28.144.180",
+            "10.148.124.84"
         ],
         "rsa.internal.messageid": "events",
         "rsa.misc.event_source": "appliance",
@@ -1214,9 +1253,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.98.194.212",
-            "10.204.230.166"
+            "10.204.230.166",
+            "10.98.194.212"
         ],
         "rsa.counters.dclass_r1": "enimadmi",
         "rsa.internal.messageid": "events",
@@ -1349,8 +1391,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.247.139.239",
-            "10.180.195.43"
+            "10.180.195.43",
+            "10.247.139.239"
         ],
         "rsa.internal.messageid": "ids-alerts",
         "rsa.misc.event_type": "ids-alerts",
@@ -1411,8 +1453,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.147.15.213",
-            "10.94.6.140"
+            "10.94.6.140",
+            "10.147.15.213"
         ],
         "rsa.internal.messageid": "ids-alerts",
         "rsa.misc.event_type": "ids-alerts",
@@ -1446,9 +1488,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.230.6.127",
-            "10.111.157.56"
+            "10.111.157.56",
+            "10.230.6.127"
         ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
@@ -1485,6 +1530,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
             "10.193.219.34",
             "10.179.40.170"
@@ -1638,8 +1686,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.90.99.245",
-            "10.124.63.4"
+            "10.124.63.4",
+            "10.90.99.245"
         ],
         "rsa.internal.event_desc": "etconsec",
         "rsa.internal.messageid": "security_event",
@@ -1791,6 +1839,10 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance",
+            "remips188.api.invalid"
+        ],
         "related.ip": [
             "10.40.101.224",
             "10.78.199.43"
@@ -1863,6 +1915,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
             "10.39.172.93",
             "10.83.131.245"
@@ -1899,6 +1954,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
             "10.86.188.179",
             "10.201.168.116"
@@ -1938,8 +1996,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.122.204.151",
-            "10.148.211.222"
+            "10.148.211.222",
+            "10.122.204.151"
         ],
         "rsa.internal.event_desc": "umexercisecurity_event duntut",
         "rsa.internal.messageid": "security_event",
@@ -1976,6 +2034,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
             "luptatem flows accept"
@@ -2077,9 +2138,13 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance",
+            "uames4985.mail.localdomain"
+        ],
         "related.ip": [
-            "10.144.57.239",
-            "10.150.163.151"
+            "10.150.163.151",
+            "10.144.57.239"
         ],
         "rsa.internal.messageid": "events",
         "rsa.misc.event_source": "appliance",
@@ -2120,8 +2185,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.54.44.231",
-            "10.52.202.158"
+            "10.52.202.158",
+            "10.54.44.231"
         ],
         "rsa.internal.messageid": "ids-alerts",
         "rsa.misc.event_type": "ids-alerts",
@@ -2183,6 +2248,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
             "orem flows src=10.71.22.225 dst=10.4.76.100 protocol=ggp pattern: allow serrorsi"
@@ -2245,9 +2313,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.103.49.129",
-            "10.2.110.73"
+            "10.2.110.73",
+            "10.103.49.129"
         ],
         "rsa.counters.dclass_r1": "orumS",
         "rsa.internal.messageid": "events",
@@ -2285,9 +2356,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.132.176.96",
-            "10.158.61.228"
+            "10.158.61.228",
+            "10.132.176.96"
         ],
         "rsa.counters.dclass_r1": "eserun",
         "rsa.internal.messageid": "events",
@@ -2323,9 +2397,13 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance",
+            "lors2232.api.example"
+        ],
         "related.ip": [
-            "10.105.136.146",
-            "10.46.217.155"
+            "10.46.217.155",
+            "10.105.136.146"
         ],
         "rsa.internal.messageid": "events",
         "rsa.misc.event_source": "appliance",
@@ -2364,6 +2442,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
             "10.123.62.215",
             "10.245.199.23"
@@ -2396,6 +2477,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
             "cancel src=10.239.105.121 dst=10.70.7.23 mac=01:00:5e:8e:82:f0 protocol=ipv6"
@@ -2427,9 +2511,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.16.230.121",
-            "10.196.176.243"
+            "10.196.176.243",
+            "10.16.230.121"
         ],
         "rsa.counters.dclass_r1": "velites",
         "rsa.internal.messageid": "events",
@@ -2710,8 +2797,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.103.91.159",
-            "10.199.19.205"
+            "10.199.19.205",
+            "10.103.91.159"
         ],
         "rsa.internal.messageid": "ids-alerts",
         "rsa.misc.event_type": "ids-alerts",
@@ -2748,6 +2835,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
             "10.17.111.91",
             "10.65.0.157"
@@ -2783,6 +2873,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
             "cancel"
@@ -2846,8 +2939,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.140.242.86",
-            "10.177.64.152"
+            "10.177.64.152",
+            "10.140.242.86"
         ],
         "rsa.internal.messageid": "ids-alerts",
         "rsa.misc.event_type": "ids-alerts",
@@ -2884,8 +2977,8 @@
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
         "related.ip": [
-            "10.199.103.185",
-            "10.51.121.223"
+            "10.51.121.223",
+            "10.199.103.185"
         ],
         "rsa.internal.event_desc": "dipi security_event ecatc",
         "rsa.internal.messageid": "security_event",
@@ -2978,9 +3071,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.113.152.241",
-            "10.121.37.244"
+            "10.121.37.244",
+            "10.113.152.241"
         ],
         "rsa.internal.messageid": "flows",
         "rsa.misc.action": [
@@ -3017,9 +3113,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.254.96.130",
-            "10.247.118.132"
+            "10.247.118.132",
+            "10.254.96.130"
         ],
         "rsa.counters.dclass_r1": "ectet",
         "rsa.internal.messageid": "events",
@@ -3057,6 +3156,9 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
             "10.101.13.122",
             "10.200.98.243"
@@ -3320,9 +3422,12 @@
         "observer.product": "Meraki",
         "observer.type": "Wireless",
         "observer.vendor": "Cisco",
+        "related.hosts": [
+            "appliance"
+        ],
         "related.ip": [
-            "10.85.59.172",
-            "10.75.122.111"
+            "10.75.122.111",
+            "10.85.59.172"
         ],
         "rsa.counters.dclass_r1": "sequat",
         "rsa.internal.messageid": "events",

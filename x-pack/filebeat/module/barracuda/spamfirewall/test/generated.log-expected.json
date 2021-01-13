@@ -46,6 +46,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "etdo"
+        ],
         "related.ip": [
             "10.173.228.223"
         ],
@@ -256,6 +259,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "tempor"
+        ],
         "related.ip": [
             "10.138.137.28"
         ],
@@ -296,6 +302,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "ari"
+        ],
         "related.ip": [
             "10.108.180.105"
         ],
@@ -362,8 +371,7 @@
         "tags": [
             "barracuda.spamfirewall",
             "forwarded"
-        ],
-        "url.domain": ""
+        ]
     },
     {
         "event.action": " RECV",
@@ -422,6 +430,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "aveniam"
+        ],
         "related.ip": [
             "10.82.201.113"
         ],
@@ -518,6 +529,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "dolore"
+        ],
         "related.ip": [
             "10.195.109.134"
         ],
@@ -857,6 +871,10 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "lit5929.test",
+            "hitect"
+        ],
         "related.ip": [
             "10.198.6.166"
         ],
@@ -877,6 +895,8 @@
         "rsa.time.endtime": "2017-02-03T21:16:50.000Z",
         "rsa.time.starttime": "2017-02-03T21:16:50.000Z",
         "server.domain": "lit5929.test",
+        "server.registered_domain": "lit5929.test",
+        "server.top_level_domain": "test",
         "service.type": "barracuda",
         "source.ip": [
             "10.198.6.166"
@@ -937,6 +957,10 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "equat",
+            "uptat3156.www5.test"
+        ],
         "related.ip": [
             "10.77.137.72"
         ],
@@ -957,6 +981,9 @@
         "rsa.time.endtime": "2017-03-04T11:21:59.000Z",
         "rsa.time.starttime": "2017-03-04T11:21:59.000Z",
         "server.domain": "uptat3156.www5.test",
+        "server.registered_domain": "www5.test",
+        "server.subdomain": "uptat3156",
+        "server.top_level_domain": "test",
         "service.type": "barracuda",
         "source.ip": [
             "10.77.137.72"
@@ -980,6 +1007,10 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "vitaedi",
+            "neav6028.internal.domain"
+        ],
         "related.ip": [
             "10.128.114.77"
         ],
@@ -1000,6 +1031,9 @@
         "rsa.time.endtime": "2017-03-18T18:24:33.000Z",
         "rsa.time.starttime": "2017-03-18T18:24:33.000Z",
         "server.domain": "neav6028.internal.domain",
+        "server.registered_domain": "internal.domain",
+        "server.subdomain": "neav6028",
+        "server.top_level_domain": "domain",
         "service.type": "barracuda",
         "source.ip": [
             "10.128.114.77"
@@ -1138,8 +1172,7 @@
         "tags": [
             "barracuda.spamfirewall",
             "forwarded"
-        ],
-        "url.domain": ""
+        ]
     },
     {
         "event.action": "deny",
@@ -1225,6 +1258,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "olupta"
+        ],
         "related.ip": [
             "10.98.92.244"
         ],
@@ -1423,6 +1459,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "tquov"
+        ],
         "related.ip": [
             "10.211.93.62"
         ],
@@ -1480,6 +1519,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "qui"
+        ],
         "related.ip": [
             "10.199.182.123"
         ],
@@ -1604,8 +1646,7 @@
         "tags": [
             "barracuda.spamfirewall",
             "forwarded"
-        ],
-        "url.domain": ""
+        ]
     },
     {
         "event.code": "web",
@@ -1808,8 +1849,7 @@
         "tags": [
             "barracuda.spamfirewall",
             "forwarded"
-        ],
-        "url.domain": ""
+        ]
     },
     {
         "event.action": " SCAN",
@@ -1824,6 +1864,10 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "oremagna3521.mail.home",
+            "aveni"
+        ],
         "related.ip": [
             "10.29.155.171"
         ],
@@ -1844,6 +1888,9 @@
         "rsa.time.endtime": "2018-03-25T09:31:24.000Z",
         "rsa.time.starttime": "2018-03-25T09:31:24.000Z",
         "server.domain": "oremagna3521.mail.home",
+        "server.registered_domain": "mail.home",
+        "server.subdomain": "oremagna3521",
+        "server.top_level_domain": "home",
         "service.type": "barracuda",
         "source.ip": [
             "10.29.155.171"
@@ -1887,8 +1934,7 @@
         "tags": [
             "barracuda.spamfirewall",
             "forwarded"
-        ],
-        "url.domain": ""
+        ]
     },
     {
         "event.action": " RECV",
@@ -2004,8 +2050,7 @@
         "tags": [
             "barracuda.spamfirewall",
             "forwarded"
-        ],
-        "url.domain": ""
+        ]
     },
     {
         "event.code": "reports",
@@ -2509,6 +2554,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "obeataev"
+        ],
         "related.ip": [
             "10.139.127.232"
         ],
@@ -2550,6 +2598,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "inv"
+        ],
         "related.ip": [
             "10.163.209.70"
         ],
@@ -2674,8 +2725,7 @@
         "tags": [
             "barracuda.spamfirewall",
             "forwarded"
-        ],
-        "url.domain": ""
+        ]
     },
     {
         "event.action": "CHANGE",
@@ -2719,6 +2769,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "eritatis"
+        ],
         "related.ip": [
             "10.209.184.60"
         ],
@@ -2818,6 +2871,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "plic"
+        ],
         "related.ip": [
             "10.17.87.79"
         ],
@@ -2933,6 +2989,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "taedi"
+        ],
         "related.ip": [
             "10.17.98.243"
         ],
@@ -3209,6 +3268,10 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "piciatis2460.api.host",
+            "der"
+        ],
         "related.ip": [
             "10.77.182.191"
         ],
@@ -3229,6 +3292,9 @@
         "rsa.time.endtime": "2019-11-30T00:21:57.000Z",
         "rsa.time.starttime": "2019-11-30T00:21:57.000Z",
         "server.domain": "piciatis2460.api.host",
+        "server.registered_domain": "api.host",
+        "server.subdomain": "piciatis2460",
+        "server.top_level_domain": "host",
         "service.type": "barracuda",
         "source.ip": [
             "10.77.182.191"
@@ -3251,6 +3317,9 @@
         "observer.product": "Spam",
         "observer.type": "Anti-Virus",
         "observer.vendor": "Barracuda",
+        "related.hosts": [
+            "iame"
+        ],
         "related.ip": [
             "10.193.110.71"
         ],
